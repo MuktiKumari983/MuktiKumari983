@@ -17,6 +17,7 @@
 - Firebase
 - Git
 - GitHub
+- SQL
 
 ## Currently Focused On
 
