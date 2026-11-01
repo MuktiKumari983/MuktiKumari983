@@ -18,6 +18,7 @@
 - Git
 - GitHub
 - SQL
+- Spring Boot
 
 ## Currently Focused On
 
