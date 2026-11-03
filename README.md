@@ -1,8 +1,8 @@
-## Hi, I'm Mukti Kumari 
+ ## Hi, I'm Mukti Kumari 
 
 - B.Tech CSE Student
 - Aspiring Software Development Engineer (SDE)
-- Java Developer
+- Java Developer 
 - Data Structures & Algorithms Enthusiast
 - AWS Cloud Club Core Team Member
 - Team Lead - Google Solution Challenge 2026
