@@ -110,8 +110,6 @@ A collection of DSA solutions with explanations and time and space complexity an
 
 ---
 
-## 📊 GitHub Statistics
-
 
 ## 📊 GitHub Statistics
 
@@ -120,10 +118,6 @@ A collection of DSA solutions with explanations and time and space complexity an
   <img src="./profile/top-langs.svg" height="180" alt="Top Languages" />
 </p>
 
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MuktiKumari983&layout=compact&theme=tokyonight&hide_border=true)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=MuktiKumari983&theme=tokyonight&hide_border=true)
 
 ---
 
